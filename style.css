@@ -75,5 +75,18 @@ body{
     display: flex;
     gap: 5px;
     align-items: center;
-    margin-top: -30px;
+    margin-top: -15px;
+}
+.sidebar{
+    border: 1px solid lightgray;
+    width: 180px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.flex-icons{
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    margin-left: 20px;
 }
